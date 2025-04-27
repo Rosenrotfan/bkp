@@ -4,3 +4,4 @@ include/
 lib64
 pyvenv.cfg
 ozima/__pycache__/*
+ozima/logs/*

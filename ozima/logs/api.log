@@ -1,0 +1,15 @@
+2025-04-27 20:05:57,014 - INFO - Запрос размера директории: /tmp
+2025-04-27 20:05:57,014 - INFO - Успешно: размер /tmp = 228 байт
+2025-04-27 20:05:57,014 - INFO - Request: GET http://127.0.0.1:8000/directory_size/?path=/tmp - Status: 200 - Process time: 1.60ms
+2025-04-27 20:06:07,867 - INFO - Запрос размера директории: /tmp
+2025-04-27 20:06:07,867 - INFO - Успешно: размер /tmp = 228 байт
+2025-04-27 20:06:07,867 - INFO - Request: GET http://127.0.0.1:8000/directory_size/?path=/tmp - Status: 200 - Process time: 1.80ms
+2025-04-27 20:06:23,828 - INFO - Запрос размера директории: /tmp
+2025-04-27 20:06:23,828 - INFO - Успешно: размер /tmp = 228 байт
+2025-04-27 20:06:23,828 - INFO - Request: GET http://127.0.0.1:8000/directory_size/?path=/tmp - Status: 200 - Process time: 1.20ms
+2025-04-27 20:06:53,632 - INFO - Запрос размера директории: /tmp
+2025-04-27 20:06:53,632 - INFO - Успешно: размер /tmp = 228 байт
+2025-04-27 20:06:53,633 - INFO - Request: GET http://127.0.0.1:8000/directory_size/?path=/tmp - Status: 200 - Process time: 1.58ms
+2025-04-27 20:25:18,557 - INFO - Запрос размера директории: /tmp
+2025-04-27 20:25:18,557 - INFO - Успешно: размер /tmp = 228 байт
+2025-04-27 20:25:18,557 - INFO - Request: GET http://127.0.0.1:8000/directory_size/?path=/tmp - Status: 200 - Process time: 1.55ms
